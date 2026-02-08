@@ -42,10 +42,10 @@ var index_config_default = {
     url: ""
   },
   wogg: {
-    url: ""
+    url: "https://wogg.xyz/"
   },
   leijing: {
-    url: ""
+    url: "https://www.leijing.xyz/"
   },
   tgsou: {
     tgPic: false,

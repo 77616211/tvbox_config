@@ -42,7 +42,7 @@ var index_config_default = {
     url: ""
   },
   wogg: {
-    url: "https://wogg.xyz/"
+    url: "https://wogg.xxooo.cf/"
   },
   leijing: {
     url: "https://www.leijing.xyz/"
